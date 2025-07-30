@@ -1,0 +1,6 @@
+MAD-1 project vehicle parking app
+running procedure
+1. open terminal and write:
+.venv/Scripts/activate
+then 
+python Slotlyapp.py
